@@ -3,6 +3,6 @@
 <  phiên bản plist = " 1.0 " > 
     < dict > 
     < key > AppSecret </ key > 
-    < string > {Bí mật ứng dụng của bạn ở đây} </ string > 
+    < string > {"17a2ea2a-973b-4847-a83b-bfbed5b707cb"} </ string > 
     </ dict > 
 </ plist >
